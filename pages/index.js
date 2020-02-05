@@ -11,10 +11,10 @@ const Index = () => (
       <div className="col-lg text-center">
         <h1>Your Teams Onboarding</h1>
         <h1>in a fast flexible workplace</h1>
-        <div class="input-group">
-          <input type="text" class="form-control" placeholder="name@company.name" aria-label="Recipient's username" aria-describedby="basic-addon2"/>
-          <div class="input-group-append">
-          <button class="btn btn-primary" type="button">Sign Up Free</button>
+        <div className="input-group">
+          <input type="text" className="form-control" placeholder="name@company.name" aria-label="Recipient's username" aria-describedby="basic-addon2"/>
+          <div className="input-group-append">
+          <button className="btn btn-primary" type="button">Sign Up Free</button>
           </div>
       </div>
       </div>

@@ -15,7 +15,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _static_images_logo_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../static/images/logo.png */ "./static/images/logo.png");
 /* harmony import */ var _static_images_logo_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_static_images_logo_png__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/larsthrasher/Desktop/frontEnd/components/Navbar.js";
+var _jsxFileName = "/Users/larsthrasher/Desktop/frontend/components/Navbar.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -279,7 +279,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _static_images_img4_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_static_images_img4_png__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _static_images_img5_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../static/images/img5.png */ "./static/images/img5.png");
 /* harmony import */ var _static_images_img5_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_static_images_img5_png__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "/Users/larsthrasher/Desktop/frontEnd/components/company.js";
+var _jsxFileName = "/Users/larsthrasher/Desktop/frontend/components/company.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -406,7 +406,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "./node_modules/next/dist/next-server/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Navbar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Navbar */ "./components/Navbar.js");
-var _jsxFileName = "/Users/larsthrasher/Desktop/frontEnd/components/layout.js";
+var _jsxFileName = "/Users/larsthrasher/Desktop/frontend/components/layout.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5246,9 +5246,9 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Flarsthrasher%2FDesktop%2FfrontEnd%2Fpages%2Findex.js!./":
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Flarsthrasher%2FDesktop%2Ffrontend%2Fpages%2Findex.js!./":
 /*!****************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Flarsthrasher%2FDesktop%2FfrontEnd%2Fpages%2Findex.js ***!
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Flarsthrasher%2FDesktop%2Ffrontend%2Fpages%2Findex.js ***!
   \****************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -10734,7 +10734,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_company__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/company */ "./components/company.js");
 /* harmony import */ var _static_images_words_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../static/images/words.png */ "./static/images/words.png");
 /* harmony import */ var _static_images_words_png__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_static_images_words_png__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/larsthrasher/Desktop/frontEnd/pages/index.js";
+var _jsxFileName = "/Users/larsthrasher/Desktop/frontend/pages/index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -10793,7 +10793,7 @@ var Index = function Index() {
     },
     __self: this
   }, "in a fast flexible workplace"), __jsx("div", {
-    "class": "input-group",
+    className: "input-group",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
@@ -10801,7 +10801,7 @@ var Index = function Index() {
     __self: this
   }, __jsx("input", {
     type: "text",
-    "class": "form-control",
+    className: "form-control",
     placeholder: "name@company.name",
     "aria-label": "Recipient's username",
     "aria-describedby": "basic-addon2",
@@ -10811,14 +10811,14 @@ var Index = function Index() {
     },
     __self: this
   }), __jsx("div", {
-    "class": "input-group-append",
+    className: "input-group-append",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     },
     __self: this
   }, __jsx("button", {
-    "class": "btn btn-primary",
+    className: "btn btn-primary",
     type: "button",
     __source: {
       fileName: _jsxFileName,
@@ -10917,12 +10917,12 @@ module.exports = "/_next/static/images/words-33352abb10d4a0834e664bad5f117c40.pn
 
 /***/ 1:
 /*!********************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Flarsthrasher%2FDesktop%2FfrontEnd%2Fpages%2Findex.js ***!
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Flarsthrasher%2FDesktop%2Ffrontend%2Fpages%2Findex.js ***!
   \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Flarsthrasher%2FDesktop%2FfrontEnd%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Flarsthrasher%2FDesktop%2FfrontEnd%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Flarsthrasher%2FDesktop%2Ffrontend%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Flarsthrasher%2FDesktop%2Ffrontend%2Fpages%2Findex.js!./");
 
 
 /***/ }),
