@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import logo from '../.next/static/images/logo.png'
+import logo from '../static/images/logo.png'
 
 const Navbar = () => (
   <nav className="navbar navbar-expand-lg navbar-light bg-light">

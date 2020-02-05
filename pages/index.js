@@ -1,12 +1,12 @@
 import Layout from '../components/layout';
 import Company from '../components/company';
-import words from '../.next/static/images/bgsw.png'
+import words from '../static/images/words.png'
 
 const Index = () => (
   <Layout>
     <div className="row" style={{ marginTop: "10%"}}>
       <div className="col-lg">
-        <img src={words} width="100%"  />
+        <img src={words} width="75%"  />
       </div>
       <div className="col-lg text-center">
         <h1>Your Teams Onboarding</h1>
